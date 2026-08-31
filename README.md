@@ -9,6 +9,10 @@ A premium, framework-free HTML/CSS/vanilla-JS template for a boutique strategy a
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Pages
 
 | Page | Description | Link |
